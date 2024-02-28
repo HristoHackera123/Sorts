@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\Sorting\CharCompare\bin\Debug\net8.0\CharCompare.exe
+C:\Users\encho\source\repos\Sorting\CharCompare\bin\Debug\net8.0\CharCompare.deps.json
+C:\Users\encho\source\repos\Sorting\CharCompare\bin\Debug\net8.0\CharCompare.runtimeconfig.json
+C:\Users\encho\source\repos\Sorting\CharCompare\bin\Debug\net8.0\CharCompare.dll
+C:\Users\encho\source\repos\Sorting\CharCompare\bin\Debug\net8.0\CharCompare.pdb
+C:\Users\encho\source\repos\Sorting\CharCompare\obj\Debug\net8.0\CharCompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\Sorting\CharCompare\obj\Debug\net8.0\CharCompare.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\Sorting\CharCompare\obj\Debug\net8.0\CharCompare.AssemblyInfo.cs
+C:\Users\encho\source\repos\Sorting\CharCompare\obj\Debug\net8.0\CharCompare.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\Sorting\CharCompare\obj\Debug\net8.0\CharCompare.dll
+C:\Users\encho\source\repos\Sorting\CharCompare\obj\Debug\net8.0\refint\CharCompare.dll
+C:\Users\encho\source\repos\Sorting\CharCompare\obj\Debug\net8.0\CharCompare.pdb
+C:\Users\encho\source\repos\Sorting\CharCompare\obj\Debug\net8.0\CharCompare.genruntimeconfig.cache
+C:\Users\encho\source\repos\Sorting\CharCompare\obj\Debug\net8.0\ref\CharCompare.dll

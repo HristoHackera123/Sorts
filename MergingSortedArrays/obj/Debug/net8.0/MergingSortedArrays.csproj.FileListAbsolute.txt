@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\Sorting\MergingSortedArrays\bin\Debug\net8.0\MergingSortedArrays.exe
+C:\Users\encho\source\repos\Sorting\MergingSortedArrays\bin\Debug\net8.0\MergingSortedArrays.deps.json
+C:\Users\encho\source\repos\Sorting\MergingSortedArrays\bin\Debug\net8.0\MergingSortedArrays.runtimeconfig.json
+C:\Users\encho\source\repos\Sorting\MergingSortedArrays\bin\Debug\net8.0\MergingSortedArrays.dll
+C:\Users\encho\source\repos\Sorting\MergingSortedArrays\bin\Debug\net8.0\MergingSortedArrays.pdb
+C:\Users\encho\source\repos\Sorting\MergingSortedArrays\obj\Debug\net8.0\MergingSortedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\Sorting\MergingSortedArrays\obj\Debug\net8.0\MergingSortedArrays.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\Sorting\MergingSortedArrays\obj\Debug\net8.0\MergingSortedArrays.AssemblyInfo.cs
+C:\Users\encho\source\repos\Sorting\MergingSortedArrays\obj\Debug\net8.0\MergingSortedArrays.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\Sorting\MergingSortedArrays\obj\Debug\net8.0\MergingSortedArrays.dll
+C:\Users\encho\source\repos\Sorting\MergingSortedArrays\obj\Debug\net8.0\refint\MergingSortedArrays.dll
+C:\Users\encho\source\repos\Sorting\MergingSortedArrays\obj\Debug\net8.0\MergingSortedArrays.pdb
+C:\Users\encho\source\repos\Sorting\MergingSortedArrays\obj\Debug\net8.0\MergingSortedArrays.genruntimeconfig.cache
+C:\Users\encho\source\repos\Sorting\MergingSortedArrays\obj\Debug\net8.0\ref\MergingSortedArrays.dll

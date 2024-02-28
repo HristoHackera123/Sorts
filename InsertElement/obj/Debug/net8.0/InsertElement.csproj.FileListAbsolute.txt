@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\Sorting\InsertElement\bin\Debug\net8.0\InsertElement.exe
+C:\Users\encho\source\repos\Sorting\InsertElement\bin\Debug\net8.0\InsertElement.deps.json
+C:\Users\encho\source\repos\Sorting\InsertElement\bin\Debug\net8.0\InsertElement.runtimeconfig.json
+C:\Users\encho\source\repos\Sorting\InsertElement\bin\Debug\net8.0\InsertElement.dll
+C:\Users\encho\source\repos\Sorting\InsertElement\bin\Debug\net8.0\InsertElement.pdb
+C:\Users\encho\source\repos\Sorting\InsertElement\obj\Debug\net8.0\InsertElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\Sorting\InsertElement\obj\Debug\net8.0\InsertElement.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\Sorting\InsertElement\obj\Debug\net8.0\InsertElement.AssemblyInfo.cs
+C:\Users\encho\source\repos\Sorting\InsertElement\obj\Debug\net8.0\InsertElement.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\Sorting\InsertElement\obj\Debug\net8.0\InsertElement.dll
+C:\Users\encho\source\repos\Sorting\InsertElement\obj\Debug\net8.0\refint\InsertElement.dll
+C:\Users\encho\source\repos\Sorting\InsertElement\obj\Debug\net8.0\InsertElement.pdb
+C:\Users\encho\source\repos\Sorting\InsertElement\obj\Debug\net8.0\InsertElement.genruntimeconfig.cache
+C:\Users\encho\source\repos\Sorting\InsertElement\obj\Debug\net8.0\ref\InsertElement.dll
